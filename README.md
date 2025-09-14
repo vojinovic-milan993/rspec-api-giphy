@@ -17,6 +17,8 @@ Add your environment variables (e.g. API base URL and key) in a `.env` file:
     API_BASE_URL=https://api.giphy.com/v1
     API_KEY=your_api_key_here
 
+## Note: you can either use the public API key that Giphy exposes in their frontend (visible in the browser’s network tab), or generate your own developer key by signing up on Giphy’s developer portal.
+
 
 ## Running Tests
 
