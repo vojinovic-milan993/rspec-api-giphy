@@ -1,0 +1,3 @@
+.env.staging
+spec/create_contract_spec.rb
+spec/create_contract_get_spec.rb
