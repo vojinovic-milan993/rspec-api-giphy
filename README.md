@@ -15,7 +15,7 @@ Install dependencies:
 
 Add your environment variables (e.g. API base URL and key) in a `.env` file:
     API_BASE_URL=https://api.giphy.com/v1
-    GIPHY_API_KEY=your_api_key_here
+    API_KEY=your_api_key_here
 
 
 ## Running Tests
